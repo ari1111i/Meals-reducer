@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-Meals-reducer/static/css/main.39357b84.css",
+    "main.js": "/react-Meals-reducer/static/js/main.dd3ebac4.js",
+    "static/media/meals-image.png": "/react-Meals-reducer/static/media/meals-image.143988d4584c16a1e461.png",
+    "static/media/backet-icon.svg": "/react-Meals-reducer/static/media/backet-icon.00b4f6209098c4b6596d385d8cfa0e1f.svg",
+    "index.html": "/react-Meals-reducer/index.html",
+    "static/media/system-icon.svg": "/react-Meals-reducer/static/media/system-icon.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "static/media/plus-icon.svg": "/react-Meals-reducer/static/media/plus-icon.b776db3049759138851bfd74cfed1b0a.svg",
+    "static/media/minus-icon.svg": "/react-Meals-reducer/static/media/minus-icon.6656a378ce3b9c4d04a0d9ed0d3bbe32.svg",
+    "main.39357b84.css.map": "/react-Meals-reducer/static/css/main.39357b84.css.map",
+    "main.dd3ebac4.js.map": "/react-Meals-reducer/static/js/main.dd3ebac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39357b84.css",
+    "static/js/main.dd3ebac4.js"
+  ]
+}
